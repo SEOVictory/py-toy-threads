@@ -1,4 +1,5 @@
-py-toy-threads
+Python Toy Threads
 ==============
 
-Threading Examples in Python
+Threading Playground in Python. PoC, Tests and Examples of Python
+Threading.

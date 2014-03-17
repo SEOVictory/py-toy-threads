@@ -1,7 +1,5 @@
 from time import sleep
 
-from threading import Thread
-
 
 class Whrrrler(object):
     play_on = False
